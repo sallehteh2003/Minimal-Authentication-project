@@ -1,0 +1,16 @@
+{
+
+  "DATABASE": {
+
+      "HOST": "localhost",
+      "PORT": 5432,
+      "NAME": "minimal_auth",
+      "SQL_USERNAME": "postgres",
+      "PASSWORD": "saleh"
+
+
+  },
+  "Server": {
+    "port": 8080
+  }
+}
